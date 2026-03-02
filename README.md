@@ -4,6 +4,10 @@ Trim Fast. Export Clean.
 
 A local-first audio/video trimming tool. Switch between `Video` and `Audio` workspaces, create multiple clips, and export them in one batch.
 
+Live Demo: https://crapthings.github.io/fabulous-cutter/dist/
+
+![Fabulous Cutter Preview](./public/s1.png)
+
 ## Features
 
 - Dual-tab workflow: `Video` and `Audio` sessions are fully isolated
